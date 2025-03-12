@@ -1,0 +1,49 @@
+===============================
+Dataset Information
+===============================
+- Name: AgaCorpus - Kurdish Sorani NER Dataset
+- Version: 1.0
+- Release Date: 2024
+- Language: Kurdish Sorani (ckb)
+- Size: 64,563 tokens, 2,534 sentences
+- Format: CoNLL
+
+===============================
+Data Collection
+===============================
+- Source: Rudaw Media Network (www.rudaw.net)
+- Period: 2024
+- Categories: Kurdistan, Middle East, World, Economic, Sports
+
+===============================
+Annotation Schema
+===============================
+Entity Types:
+- PERSON: Individual names
+- LOCATION: Geographic locations
+- ORGANIZATION: Companies, institutions
+- DATE: Date, day of the week, month, year
+- MISCELLANEOUS: Other named entities (Historical, Scientific Names, Sports, Currency, Unique Names, Drugs)
+
+BIO Tagging:
+- B-[TYPE]: Beginning of entity
+- I-[TYPE]: Inside entity
+- O: Outside (not an entity)
+
+===============================
+Usage
+===============================
+- Research and academic use permitted
+- Modification allowed with attribution
+
+===============================
+Contact
+===============================
+Research Team: 
+- [Bakhtawar Abdalla]
+- [Rebwar Nabi]
+- [Fabio Caraffini]
+- [Hassan Eshkiki]
+Institution: [Sulaimani Polytechnic University, Kurdistan Technical Institute, Swansea University]
+Email: [bakhtawar.barzan95@hotmail.com, rebwar.nabi@kti.edu.iq, fabio.caraffini@swansea.ac.uk, h.g.eshkiki@swansea.ac.uk]
+Project Repository: [https://github.com/bakhtawaruk23/AgaCKNER-Dataset-V1.0.0-2024.git]
