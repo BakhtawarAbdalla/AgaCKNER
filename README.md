@@ -46,4 +46,4 @@ Metadata.txt
 ----------
 - Notes
   - AgaCKNER is the first Kurdish Sorani Named Entity Recognition dataset, created to advance Kurdish NLP research.
-  - For inquiries, contact [Bakhtawar Abdalla - Github: BakhtawarAbdalla | E-mail: bakha.barzan95@gmail.com].
+  - For inquiries, contact [Bakhtawar Abdalla - Github: BakhtawarAbdalla | E-mail: bakhtawar.barzan95@hotmail.com].
