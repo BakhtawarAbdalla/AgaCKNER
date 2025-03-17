@@ -32,7 +32,9 @@ Metadata.txt
 
 ----------
 - References
-  1- KLPT Documentation: https://github.com/sinaahmadi/klpt.git. \n
+  
+  1- KLPT Documentation: https://github.com/sinaahmadi/klpt.git.
+  
   2- GitHub Repository: https://github.com/BakhtawarAbdalla/AgaCKNER.git (includes preprocessing code and annotation tool).
 
 ----------
